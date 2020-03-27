@@ -10,6 +10,7 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
         <link rel="stylesheet" href="css/styles.css">
         <link href="https://fonts.googleapis.com/css?family=Holtwood+One+SC" rel="stylesheet">
+		<link rel="icon" type="image/webp" href="images/logo.webp" />
         
         
     </head>
