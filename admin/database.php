@@ -1,11 +1,11 @@
 <?php
-
+// Remplacer les XXXX par vos valeurs
 class Database
 {
-    private static $dbHost = ***REMOVED***;
-    private static $dbName = ***REMOVED***;
-    private static $dbUser = ***REMOVED***;
-    private static $dbUserPassword = ***REMOVED***;
+    private static $dbHost = "localhost";
+    private static $dbName = "XXXX";
+    private static $dbUser = "XXXX";
+    private static $dbUserPassword = "XXXX";
     
     private static $connection = "null";
 
